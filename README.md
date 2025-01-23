@@ -2,7 +2,7 @@
 
 # Introdução
 
-### Este projeto é uma implementação de uma TDD com tests em Xunit utilizando .NET Core 3.1, com Com um project Console de Calculadora para implementar as regas para fazer os testes.
+### Este projeto demonstra a implementação de TDD (Test-Driven Development) utilizando o framework de testes xUnit e a tecnologia .NET Core 3.1. O projeto consiste em uma aplicação de console para uma calculadora, que serve como base para implementar as regras de negócio e validar seu funcionamento através de testes automatizados.
 
 ### Principais Tecnologias e Funcionalidades:
 
